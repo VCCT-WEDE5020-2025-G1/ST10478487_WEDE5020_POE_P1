@@ -67,6 +67,8 @@ Here's a breakdown of the website structure:
  * * • Event highlights to promote community activities
  * • Integrated social media for wider reach
  * • Contact options including newsletter subscription
+ * Fully responsive design with breakpoints for mobile,tablet and desktop
+ * High-quality images integrated throughout the site
 
  * Purpose:
  * The website is designed to improve customer engagement, 
