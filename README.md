@@ -58,8 +58,6 @@ Here's a breakdown of the website structure:
  * 5. Reviews
  *    - Reviews of the Café
  *
- * 6. Map
- *    - Interactive Map to The Kettle Café
  *
  * Features:
  * • Responsive design for all screen sizes
