@@ -7,11 +7,11 @@ document.getElementById("contactForm").addEventListener("submit", function(e) {
   let formMessage = document.getElementById("formMessage");
 
   if (name && email && message) {
-    formMessage.textContent = "✅ Thank you, your message has been sent!";
+    formMessage.textContent = "Thank you, your message has been sent!";
     formMessage.style.color = "green";
     this.reset();
   } else {
-    formMessage.textContent = "❌ Please fill in all fields.";
+    formMessage.textContent = "Please fill in all fields.";
     formMessage.style.color = "red";
   }
 });

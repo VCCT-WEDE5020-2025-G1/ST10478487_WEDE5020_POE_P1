@@ -56,11 +56,11 @@ button {
 }
 
 button:hover {
-  background: #BFD4E6;
+  background: #4f96d5;
 }
 
 footer {
-  background: #BFD4E6;
+  background: #ffffff;
   color: #282131;
   text-align: center;
   padding: 1rem;
@@ -83,7 +83,7 @@ footer {
 
 
 .event {
-  border: 1px solid #ccc;
+  border: 1px solid #282131;
   padding: 1rem;
   border-radius: 10px;
   background: #f9f9f9;
@@ -106,7 +106,7 @@ footer {
   }
 }
 
-=
+
 @media (min-width: 601px) and (max-width: 1024px) {
   body {
     background-color: #BFD4E6;
